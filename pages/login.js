@@ -1,7 +1,8 @@
 import LoginForm from '../components/login-form'
 
-export default () => (
+const Login = () => (
   <div>
     <LoginForm />
   </div>
 )
+export default Login;
